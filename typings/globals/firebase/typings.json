@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "/Users/helder/ListadorDeTarefas/node_modules/firebase/firebase.d.ts",
+    "raw": "file:node_modules/firebase/firebase.d.ts",
+    "typings": "/Users/helder/ListadorDeTarefas/node_modules/firebase/firebase.d.ts"
+  }
+}
